@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccuracyChange</string>
+    <string-array name="Acuraccy">
+        <item value = "" >1</item>
+        <item value = "" >2</item>
+        <item value = "">3</item>
+    </string-array>
+</resources>
